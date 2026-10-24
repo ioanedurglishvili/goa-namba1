@@ -50,8 +50,7 @@
 
 width = input ("შეიტანეთ მართკუთხედის სიგანე")
 height = input("შეიტანეთ მართკუთხედის სიგრძე")
-s =  width * height
-print(s)
+print()
 
 
 

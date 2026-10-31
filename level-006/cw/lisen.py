@@ -7,7 +7,7 @@
 #     print("number_2")
   
 for namber in range (5):
-    print(namber +1)
+    print( namber)
 
     
 
